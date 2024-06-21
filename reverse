@@ -1,0 +1,6 @@
+# Given an array, print the array in reverse 
+array=[1,2,3,4,5]
+n=len(array)-1
+while n>=0:
+    print(array[n])
+    n-=1

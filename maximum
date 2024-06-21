@@ -1,0 +1,7 @@
+# Given an array, find the max element 
+array=[1,2,3,4,5]
+maximum=array[0]
+for n in array:
+    if n>maximum:
+        maximum=n
+print("maximum:",maximum)

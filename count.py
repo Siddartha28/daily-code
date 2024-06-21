@@ -1,4 +1,4 @@
-#8)given an array, count number of even and odd and print odd and even count 
+#given an array, count number of even and odd and print odd and even count 
 array=[1,2,3,4,5]
 ecount=0
 ocount=0
